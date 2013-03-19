@@ -1,6 +1,6 @@
 ## Android Workshop - Student Dev Days 2013 ##
 
-This project contains material for the Android Workshop at Student Dev Days 2013, organized by the Goa Android User Group on March 23, 2013.
+This project contains material for the Android Workshop at [Student Dev Days 2013](http://www.gaug.in/2013/03/09/student-dev-day/), organized by the [Goa Android User Group (GAUG)](http://www.gaug.in) on March 23, 2013.
 
 The material is good enough for anyone who wants to self-study writing Android applications. 
 
